@@ -1,0 +1,15 @@
+[
+  {
+    "description": "这是一个get接口",
+    "request": {
+      "uri": "/get",
+      "method": "get"
+    },
+    "response": {
+      "headers":{
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "text": "恭喜你访问成功！"
+    }
+  }
+]
